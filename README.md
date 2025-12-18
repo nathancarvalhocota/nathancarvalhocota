@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Desenvolvedor .NET C# | Em busca de novos desafios e crescimento profissional</p>&nbsp;
 
 
