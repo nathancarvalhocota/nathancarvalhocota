@@ -1,15 +1,5 @@
-## Desenvolvedor .NET C#
+## Desenvolvedor Back-End .NET C#
 
-
-## 👨‍💻 Sobre mim
-
-Desenvolvedor .NET C# Junior com experiência em desenvolvimento de APIs REST, aplicações desktop e automação de processos. Atualmente trabalhando na DTG Consultoria e Projetos, onde atuo no desenvolvimento de soluções para sistemas de alta potência e gestão de usuários.
-
-Busco constantemente novos desafios que proporcionem aprendizado e crescimento profissional, com foco em projetos complexos que demandem raciocínio lógico e soluções inovadoras.
-
-
-
-&nbsp;
 
 ## 💼 Experiência Profissional
 
@@ -29,10 +19,6 @@ Busco constantemente novos desafios que proporcionem aprendizado e crescimento p
 - Desenvolvimento de interface gráfica com Windows Forms
 - Implementação de sistema de versionamento Git
 
-**Assistente de Cálculo** - Contadora da Bolsa Contabilidade *(10/2020 - 01/2024)*
-- Cálculo de Imposto de Renda para investidores
-- Gestão de informações financeiras e custódia de ativos
-- Atendimento a clientes e gerenciamento via CRM
 
 &nbsp;
 
