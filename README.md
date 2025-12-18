@@ -1,4 +1,4 @@
-## <p align="center">Desenvolvedor .NET C# | Em busca de novos desafios e crescimento profissional</p>&nbsp;
+## Desenvolvedor .NET C#
 
 
 ## 👨‍💻 Sobre mim
