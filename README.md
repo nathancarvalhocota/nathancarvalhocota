@@ -1,5 +1,16 @@
-## Desenvolvedor Back-End .NET C#
 
+<h1 align="center">Desenvolvedor Back-End .NET C# | Em busca de novos desafios e crescimento profissional</h1>&
+
+
+## 👨‍💻 Sobre mim
+
+Desenvolvedor .NET C# Júnior com foco em back-end e experiência comprovada em desenvolvimento de APIs REST, aplicações desktop, automação de processos. Atualmente trabalhando na DTG Consultoria e Projetos, onde atuo no desenvolvimento de soluções para sistemas complexos da área de engenharia elétrica, criando produtos que automatizam longas tarefas dos engenheiros que realizam estudos para sistemas de alta potência.
+
+Busco constantemente novos desafios que proporcionem aprendizado e crescimento profissional, com foco em projetos complexos que demandem raciocínio lógico e soluções inovadoras.
+
+**Localização:** Ibirité - MG, Brasil
+
+&nbsp;
 
 ## 💼 Experiência Profissional
 
@@ -18,7 +29,6 @@
 - Manipulação de arquivos XML e criação de relatórios Word/Excel (Interop)
 - Desenvolvimento de interface gráfica com Windows Forms
 - Implementação de sistema de versionamento Git
-
 
 &nbsp;
 
