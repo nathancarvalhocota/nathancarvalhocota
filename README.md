@@ -1,5 +1,5 @@
 
-<h1 align="center">Desenvolvedor Back-End .NET C# | Em busca de novos desafios e crescimento profissional</h1>&
+<h1 align="center">Desenvolvedor Back-End .NET C#
 
 
 ## 👨‍💻 Sobre mim
@@ -8,7 +8,6 @@ Desenvolvedor .NET C# Júnior com foco em back-end e experiência comprovada em 
 
 Busco constantemente novos desafios que proporcionem aprendizado e crescimento profissional, com foco em projetos complexos que demandem raciocínio lógico e soluções inovadoras.
 
-**Localização:** Ibirité - MG, Brasil
 
 &nbsp;
 
