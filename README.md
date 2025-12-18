@@ -1,4 +1,4 @@
-<p align="center">Desenvolvedor .NET C# | Em busca de novos desafios e crescimento profissional</p>&nbsp;
+## <p align="center">Desenvolvedor .NET C# | Em busca de novos desafios e crescimento profissional</p>&nbsp;
 
 
 ## 👨‍💻 Sobre mim
@@ -7,7 +7,7 @@ Desenvolvedor .NET C# Junior com experiência em desenvolvimento de APIs REST, a
 
 Busco constantemente novos desafios que proporcionem aprendizado e crescimento profissional, com foco em projetos complexos que demandem raciocínio lógico e soluções inovadoras.
 
-**Localização:** Ibirité - MG, Brasil
+
 
 &nbsp;
 
