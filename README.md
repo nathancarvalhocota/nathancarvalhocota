@@ -80,9 +80,9 @@ Busco constantemente novos desafios que proporcionem aprendizado e crescimento p
 
 ## 💡 Soft Skills
 
-- Motivação para aprendizado contínuo e busca por excelência
-- Curiosidade e vontade de adquirir conhecimento em áreas diversas
 - Boa comunicação e capacidade de liderança
+- Motivação para aprendizado constante e busca por excelência
+- Curiosidade e vontade de adquirir conhecimento em áreas diversas
 - Proatividade e independência na resolução de problemas complexos
 - Raciocínio lógico bem desenvolvido
 - Experiência com ferramentas de Inteligência Artificial
