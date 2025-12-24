@@ -2,11 +2,10 @@
 
 
 ## 👨‍💻 Sobre mim
+&nbsp;
+Desenvolvedor .NET com foco em back-end e experiência comprovada em desenvolvimento de APIs REST, aplicações desktop e automatização de processos. Atualmente trabalhando na DTG Consultoria e Projetos, onde atuo no desenvolvimento de soluções para sistemas complexos da área de engenharia elétrica, criando produtos que resolvem as dores de engenheiros que realizam estudos para sistemas de alta potência.
 
-Desenvolvedor .NET C# Júnior com foco em back-end e experiência comprovada em desenvolvimento de APIs REST, aplicações desktop, automação de processos. Atualmente trabalhando na DTG Consultoria e Projetos, onde atuo no desenvolvimento de soluções para sistemas complexos da área de engenharia elétrica, criando produtos que automatizam longas tarefas dos engenheiros que realizam estudos para sistemas de alta potência.
-
-Busco constantemente novos desafios que proporcionem aprendizado e crescimento profissional, com foco em projetos complexos que demandem raciocínio lógico e soluções inovadoras.
-
+Em busca de desafios técnicos em ambientes de alta complexidade e escala, com foco no desenvolvimento de sistemas robustos e soluções que impactem um grande volume de usuários, visando aprendizado contínuo, evolução técnica acelerada e excelência profissional.
 
 &nbsp;
 
