@@ -2,7 +2,6 @@
 
 
 ## 👨‍💻 Sobre mim
-&nbsp;
 Desenvolvedor .NET com foco em back-end e experiência comprovada em desenvolvimento de APIs REST, aplicações desktop e automatização de processos. Atualmente trabalhando na DTG Consultoria e Projetos, onde atuo no desenvolvimento de soluções para sistemas complexos da área de engenharia elétrica, criando produtos que resolvem as dores de engenheiros que realizam estudos para sistemas de alta potência.
 
 Em busca de desafios técnicos em ambientes de alta complexidade e escala, com foco no desenvolvimento de sistemas robustos e soluções que impactem um grande volume de usuários, visando aprendizado contínuo, evolução técnica acelerada e excelência profissional.
@@ -12,25 +11,42 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 ## 💼 Experiência Profissional
 
 **Desenvolvedor C# .NET Junior** - DTG Consultoria e Projetos *(06/2024 - Atual)*
-- Desenvolvimento e publicação de servidor API REST com .NET Core 2.1
-- Manutenção e atualização de código legado
-- Criação de aplicativo de gerenciamento de login com conexão TCP
-- Implementação de métodos de criptografia RSA para proteção de dados sensíveis
-- Deploy de versões comerciais do software
-- Treinamento e gestão de novos funcionários, aplicando metodologias ágeis como Kanban
+- Criar e publicar um servidor API REST com .NET Core 2.1.
+- Atualizar e fazer manutenções constantes em código legado, transferir funcionalidades sensíveis do Front-End para o Back-End.
+- Auxiliar no treinamento e divisão de tarefas para os novos funcionários da empresa, aplicando metodologias ágeis como Kanban
+- Criar métodos de criptografia para proteger informações sensíveis ao transitar da tela para o servidor, utilizando o método RSA.
+- Realizar deploy das primeiras versões comerciais do software
+- Criar um aplicativo externo para gerenciamento de login e usuários utilizando conexão TCP com o servidor API.
 
 **Desenvolvedor C# .NET - Estagiário** - DTG Consultoria e Projetos *(02/2024 - 05/2024)*
-- Desenvolvimento de ferramenta para automação de processos em sistemas elétricos de alta potência (.NET Framework 4.7)
-- Trabalho com Entity Framework e FluentNHibernate
-- Otimização de consultas em PostgreSQL para grande volume de dados
-- Manipulação de arquivos XML e criação de relatórios Word/Excel (Interop)
-- Desenvolvimento de interface gráfica com Windows Forms
-- Implementação de sistema de versionamento Git
+- Desenvolver uma ferramenta computacional com .NET Framework e uso de Entity Framework e FluentNHibernate, com objetivo de automatizar processos da área de estudos elétricos em sistemas de alta potência.
+- Implementação de arquitetura em camadas (Layered Architecture)
+- Criar entidades, relacionamentos e otimizar consultas no banco de dados PostgreSQL.
+- Implementar do zero um sistema de versionamento com Git/GitHub
+- Criar e evoluir uma interface gráfica com Windows Forms.
+- Manipular arquivos XML, criar relatórios Word e Excel utilizando a biblioteca Interop.
 
 &nbsp;
 
+# </> Tecnologias complementares
+
+- Java e Spring Boot - desenvolvimento de Web API em projeto pessoal para aplicação prática de arquitetura de microsserviços e mensageria com RabbitMQ e CloudAMQP.
+- JavaScript, HTML, CSS e Bootstrap - desenvolvimento de portal  de turismo em projeto acadêmico.
+- Python - desenvolvimento de API para monitorar o preço do Bitcoin e enviar notificações via Telegram. 
+- MySQL e SQL Server - uso em projetos acadêmicos e pessoais.
+- Postman - testes e validação de endpoints em projetos pessoais.
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+**Outras habilidades:**
+- Boa comunicação e perifl de liderança
+- Grande curiosidade e vontade de adquirir conhecimento sobre áreas diversas
+- Motivação para aprendizado e busca por excelência constante
+- Proatividade e independência ao solucionar problemas complexos
+- Raciocínio lógico e matemático bem desenvolvido
+- Experiência com uso de ferramentas de Inteligência Artificial
+- Capacidade de atuar sob prazos apertados e alta pressão.
+  
 ## 🚀 Conhecimentos
 
 #### Linguagens e Frameworks:
@@ -49,14 +65,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-**Outras competências:**
-- API REST (.NET Core & Java Springboot)
-- Mensageria
-- Entity Framework Core & FluentNHibernate
-- Windows Forms
-- Criptografia RSA
-- Manipulação de XML
-- Relatórios com Interop (Word/Excel)
+
 
 &nbsp;
 &nbsp;
