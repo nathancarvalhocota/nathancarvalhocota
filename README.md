@@ -19,7 +19,7 @@ Busco constantemente novos desafios que proporcionem aprendizado e crescimento p
 - Criação de aplicativo de gerenciamento de login com conexão TCP
 - Implementação de métodos de criptografia RSA para proteção de dados sensíveis
 - Deploy de versões comerciais do software
-- Treinamento e gestão de novos funcionários
+- Treinamento e gestão de novos funcionários, aplicando metodologias ágeis como Kanban
 
 **Desenvolvedor C# .NET - Estagiário** - DTG Consultoria e Projetos *(02/2024 - 05/2024)*
 - Desenvolvimento de ferramenta para automação de processos em sistemas elétricos de alta potência (.NET Framework 4.7)
@@ -52,8 +52,9 @@ Busco constantemente novos desafios que proporcionem aprendizado e crescimento p
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 **Outras competências:**
-- Entity Framework & FluentNHibernate
-- API REST (.NET Core)
+- API REST (.NET Core & Java Springboot)
+- Mensageria
+- Entity Framework Core & FluentNHibernate
 - Windows Forms
 - Criptografia RSA
 - Manipulação de XML
