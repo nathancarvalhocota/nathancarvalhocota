@@ -38,7 +38,8 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-**Outras habilidades:**
+## Outras habilidades
+
 - Boa comunicação e perifl de liderança
 - Grande curiosidade e vontade de adquirir conhecimento sobre áreas diversas
 - Motivação para aprendizado e busca por excelência constante
