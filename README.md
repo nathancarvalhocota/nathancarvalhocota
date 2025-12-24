@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor Back-End .NET C#</h1>
+<h1 align="center">Desenvolvedor Back-End .NET C/h1>
 
 
 ## 👨‍💻 Sobre mim
@@ -28,7 +28,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 &nbsp;
 
-# </> Tecnologias complementares
+## </> Tecnologias complementares
 
 - Java e Spring Boot - desenvolvimento de Web API em projeto pessoal para aplicação prática de arquitetura de microsserviços e mensageria com RabbitMQ e CloudAMQP.
 - JavaScript, HTML, CSS e Bootstrap - desenvolvimento de portal  de turismo em projeto acadêmico.
