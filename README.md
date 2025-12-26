@@ -10,7 +10,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 ## 💼 Experiência Profissional
 
-**Desenvolvedor C# .NET Junior** - DTG Consultoria e Projetos *(06/2024 - Atual)*
+**Desenvolvedor C# .NET Júnior** - DTG Consultoria e Projetos *(06/2024 - Atual)*
 - Criar e publicar um servidor API REST com .NET Core 2.1.
 - Atualizar e fazer manutenções constantes em código legado, transferir funcionalidades sensíveis do Front-End para o Back-End.
 - Auxiliar no treinamento e divisão de tarefas para os novos funcionários da empresa, aplicando metodologias ágeis como Kanban
@@ -18,7 +18,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 - Realizar deploy das primeiras versões comerciais do software
 - Criar um aplicativo externo para gerenciamento de login e usuários utilizando conexão TCP com o servidor API.
 
-**Desenvolvedor C# .NET - Estagiário** - DTG Consultoria e Projetos *(02/2024 - 05/2024)*
+**Desenvolvedor C# .NET (Estagiário)** - DTG Consultoria e Projetos *(02/2024 - 05/2024)*
 - Desenvolver uma ferramenta computacional com .NET Framework e uso de Entity Framework e FluentNHibernate, com objetivo de automatizar processos da área de estudos elétricos em sistemas de alta potência.
 - Implementação de arquitetura em camadas (Layered Architecture)
 - Criar entidades, relacionamentos e otimizar consultas no banco de dados PostgreSQL.
