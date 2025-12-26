@@ -38,7 +38,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Outras habilidades
+## 🦾 Outras habilidades
 
 - Boa comunicação e perifl de liderança
 - Grande curiosidade e vontade de adquirir conhecimento sobre áreas diversas
@@ -48,7 +48,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 - Experiência com uso de ferramentas de Inteligência Artificial
 - Capacidade de atuar sob prazos apertados e alta pressão.
   
-## 🚀 Conhecimentos
+## ⚛︎ Conhecimentos
 
 #### Linguagens e Frameworks:
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
