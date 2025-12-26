@@ -48,7 +48,8 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 - Raciocínio lógico e matemático bem desenvolvido
 - Experiência com uso de ferramentas de Inteligência Artificial
 - Capacidade de atuar sob prazos apertados e alta pressão.
-  
+  &nbsp;
+
 ## ⚛︎ Conhecimentos
 
 #### Linguagens e Frameworks:
