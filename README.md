@@ -37,6 +37,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 - Postman - testes e validação de endpoints em projetos pessoais.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+&nbsp;
 
 ## 🦾 Outras habilidades
 
