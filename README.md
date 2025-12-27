@@ -26,6 +26,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 &nbsp;
+&nbsp;
 
 ## 💼 Experiência Profissional
 
@@ -70,11 +71,6 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 
 &nbsp;
-
-
-
-
-&nbsp;
 &nbsp;
 
 ## 🎓 Formação
@@ -107,8 +103,8 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 ## 📫 Contato
 
 <div> 
-<a href="mailto:nathancarvalhocota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nathan-carvalho-337867228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:nathancarvalhocota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nathan-carvalho-back-end-developer5531/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5531987565581" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
