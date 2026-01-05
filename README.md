@@ -30,7 +30,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 ## 💼 Experiência Profissional
 
 **Desenvolvedor C# .NET Júnior** - DTG Consultoria e Projetos *(06/2024 - Atual)*
-- Criar e publicar um servidor API REST com .NET Core 2.1.
+- Criar e publicar um servidor API REST com .NET Core 2.1 com MVC.
 - Atualizar e fazer manutenções constantes em código legado, transferir funcionalidades sensíveis do Front-End para o Back-End.
 - Auxiliar no treinamento e divisão de tarefas para os novos funcionários da empresa, aplicando metodologias ágeis como Kanban
 - Criar métodos de criptografia para proteger informações sensíveis ao transitar da tela para o servidor, utilizando o método RSA.
