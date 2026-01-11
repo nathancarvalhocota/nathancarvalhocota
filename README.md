@@ -49,7 +49,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 ## </> Tecnologias complementares
 
-- Python e Docker – desenvolvimento de serviço para monitorar o preço do Bitcoin, com envio automático de notificações via Telegram. Aplicação containerizada com Docker e deploy em nuvem (Fly.io), rodando 24/7 e com pipeline CI/CD via GitHub Actions
+- Python e FastAPI – desenvolvimento de serviço para monitorar o preço do Bitcoin, com envio automático de notificações via Telegram. Aplicação containerizada com Docker e deploy em nuvem (Fly.io), rodando 24/7 e com pipeline CI/CD via GitHub Actions
 - Java e Spring Boot - desenvolvimento de Web API em projeto pessoal para aplicação prática de arquitetura de microsserviços e mensageria com RabbitMQ e CloudAMQP.
 - JavaScript, HTML, CSS e Bootstrap - desenvolvimento de portal  de turismo em projeto acadêmico..
 - MySQL e SQL Server - uso em projetos acadêmicos e pessoais.
