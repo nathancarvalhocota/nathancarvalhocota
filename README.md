@@ -74,7 +74,7 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas** - PUC Minas *(08/2023 - Cursando)*
+**Ciência da computação** - Instituto Federal de Ciência e Tecnologia de Minas Gerais (IFMG) *(02/2026 - Cursando)*
 
 **Técnico em Informática** - SENAI UI Nenem Scariolli *(02/2018 - 12/2019)*
 
