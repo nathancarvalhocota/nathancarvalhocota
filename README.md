@@ -88,17 +88,6 @@ Em busca de desafios técnicos em ambientes de alta complexidade e escala, com f
 
 &nbsp;
 
-## 💡 Soft Skills
-
-- Boa comunicação e capacidade de liderança
-- Motivação para aprendizado constante e busca por excelência
-- Curiosidade e vontade de adquirir conhecimento em áreas diversas
-- Proatividade e independência na resolução de problemas complexos
-- Raciocínio lógico bem desenvolvido
-- Experiência com ferramentas de Inteligência Artificial
-
-&nbsp;
-
 ## 📫 Contato
 
 <div> 
