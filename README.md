@@ -49,7 +49,7 @@ Seeking technical challenges in high-complexity, high-scale environments, focuse
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
 
-- **Python & asyncio** — Built an asynchronous Bitcoin price alert bot using the CoinGecko API, containerized with Docker, deployed 24/7 on cloud platforms with a full CI/CD pipeline via GitHub Actions.
+- **Python & FastAPI** — Built an asynchronous Bitcoin price alert bot using the CoinGecko API, containerized with Docker, deployed 24/7 on cloud platforms with a full CI/CD pipeline via GitHub Actions.
 - **Java & Spring Boot** — Developed a microservices architecture with asynchronous messaging using RabbitMQ and CloudAMQP to decouple user registration from email notifications.
 - **.NET 10 & Clean Architecture** — Built a RESTful Invoice Reader API for XML processing with custom validation logic for tax IDs (CNPJ), dates, and financial values, persisted to SQL Server.
 - **JavaScript, HTML, CSS & Bootstrap** — Developed a tourism portal in an academic project.
