@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 Software Engineer specialized in .NET and back-end development with proven experience in REST API development, desktop applications, and process automation. Skilled in designing centralized API-based systems, optimizing high-volume data workflows, and implementing secure communication between client and server layers.
 
-Seeking technical challenges in high-complexity, high-scale environments, focused on building robust systems and solutions that impact a large volume of users — with continuous learning, accelerated technical growth, and professional excellence as core goals.
+Seeking technical challenges in high-complexity, high-scale environments, focused on building robust systems and solutions that impact a large volume of users.
 
 &nbsp;
 
