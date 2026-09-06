@@ -47,7 +47,6 @@ Software Engineer with a strong foundation in back-end development. Love working
 
 - **Portuguese:** Native
 - **English:** Advanced (C1)
-- **Spanish:** Pre-Intermediate (B1)
 
 &nbsp;
 
