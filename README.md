@@ -23,7 +23,7 @@ Software Engineer with a strong foundation in back-end development. Love working
 
 #### Tools & Technologies:
 
-[Claude Code](https://img.shields.io/badge/Claude_Code-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+[Claude Code](https://img.shields.io/badge/Claude_Code-FFFFFF?style=for-the-badge&logo=claude&logoColor=white)&nbsp;)&nbsp;
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
